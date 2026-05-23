@@ -22,7 +22,8 @@ I am a passionate Computer Engineering student at Istanbul Technical University 
 ---
 
 ### 📫 How to Reach Me
-* 📧 Email: [enisotag56@gmail.com](mailto:enisotag56@gmail.com) [cite: 3]
+* 📧 Email: [enisotag56@gmail.com](mailto:enisotag56@gmail.com)
 * 💼 LinkedIn: [Süleyman Enis Otağ]([https://www.linkedin.com/](https://www.linkedin.com/in/s%C3%BCleyman-enis-ota%C4%9F-24445b298/))
+* 📞 Contact Number: +90 553 962 29 12
 
 > *"There are 10 types of people in the world: those who understand binary, and those who don't."*
