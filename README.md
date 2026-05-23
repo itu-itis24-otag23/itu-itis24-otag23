@@ -13,17 +13,31 @@ I am a passionate Computer Engineering student at Istanbul Technical University 
 
 ---
 
+## 🎯 Current Focus & Learning Journey
+
+* 🛠️ Building low-level networking tools and diving deeper into **POSIX Socket Programming** in C.
+* 🌐 Exploring **Web Application Security Fundamentals** and learning how web browsers securely communicate with backend APIs.
+* 🧠 Consistently practicing algorithmic problem-solving to improve my data structures and algorithm skills.
+
+---
+
 ## 🛠️ Skills & Technologies
 
 * 💻 **Programming Languages:** C (Deep Dive), HTML5, CSS3, JavaScript (Learning)
-* 🌐 **Networking & Infrastructure:** TCP/IP, Core Networking, Routing & Switching Fundamentals (Cisco CCNA: Introduction to Networks Certified) 
+* 🌐 **Networking & Infrastructure:** TCP/IP, Core Networking, Routing & Switching Fundamentals (Cisco CCNA: Introduction to Networks Certified)
 * 🔧 **Tools & Environments:** Git, GitHub, Linux Shell, VS Code
 
 ---
 
-### 📫 How to Reach Me
-* 📧 Email: [enisotag56@gmail.com](mailto:enisotag56@gmail.com)
-* 💼 LinkedIn: [Süleyman Enis Otağ]([https://www.linkedin.com/](https://www.linkedin.com/in/s%C3%BCleyman-enis-ota%C4%9F-24445b298/))
-* 📞 Contact Number: +90 553 962 29 12
 
-> *"There are 10 types of people in the world: those who understand binary, and those who don't."*
+### 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/süleyman-enis-otağ-24445b298/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enisotag56@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Enis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itu-itis24-otag23&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itu-itis24-otag23&layout=compact&theme=radical)
