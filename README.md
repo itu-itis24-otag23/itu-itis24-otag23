@@ -7,7 +7,6 @@ I am a passionate Computer Engineering student at Istanbul Technical University 
 ## 🚀 About Me
 
 * 🎓 **Education:** Pursuing my B.S. in Computer Engineering at **Istanbul Technical University** (Expected 2028). Graduated from **Eskişehir Fatih Fen Lisesi** in 2023 with a GPA of 97.92/100.
-* 🛠️ **Work & Support:** Worked as an **IT Operations & General Support Student Assistant at İTÜ Bilgi İşlem Daire Başkanlığı (BİDB)**, coordinating daily IT operations and troubleshooting network/digital resource issues for faculty and students.
 ---
 
 ## 🎯 Current Focus & Learning Journey
