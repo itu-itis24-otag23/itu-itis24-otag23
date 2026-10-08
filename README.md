@@ -19,8 +19,7 @@ I am a passionate Computer Engineering student at Istanbul Technical University 
 
 ## 🛠️ Skills & Technologies
 
-* 💻 **Programming Languages:** C, C++, HTML5, CSS3, JavaScript, PHP
-* 🌐 **Networking & Infrastructure:** TCP/IP, Core Networking, Routing & Switching Fundamentals (Cisco CCNA: Introduction to Networks Certified)
+* 💻 **Technical Skills:** C, C++, OOP, Data Structures, Python, LangChain, LangGraph, RAG, Next.js, Git, Docker
 * 🔧 **Tools & Environments:** Git, GitHub, VS Code
 
 ---
